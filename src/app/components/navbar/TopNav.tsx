@@ -35,7 +35,7 @@ export default function TopNav() {
                 </div>
             </NavbarBrand>
             <NavbarContent justify="center">
-                <NavLink href="/members" label="Matches" />
+                <NavLink href="/members"  label="Matches" />
                 <NavLink href="/lists" label="Lists" />
                 <NavLink href="/messages" label="Messages" />
             </NavbarContent>
